@@ -1,0 +1,18 @@
+<template>
+  <wxc-ruler></wxc-ruler>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: {
+      'wxc-ruler': '@minui-d/wxc-ruler'
+    }
+  },
+  data: { },
+  methods: { }
+}
+</script>
+
+<style>
+</style>
