@@ -1,6 +1,6 @@
 {
   "name": "wxc-ruler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "滑尺 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},

@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "wxc-ruler": "@minui/wxc-ruler/wxc-ruler"
-  },
-  "component": true
-}
